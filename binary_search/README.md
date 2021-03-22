@@ -1,0 +1,2 @@
+- `exact_match.py` - implementation of Template 3 (Leetcode) for binary search in sorted array of integers.
+- `nearest.py` - adoptation of Template 3 to search for closest value.
